@@ -19,7 +19,7 @@ public abstract class Base_Empleado {
         System.out.println("Salario ->"+this.salario);
     }
 
-    abstract double calcularBono(double valor);
+    abstract double calcularBono();
 
     
 
